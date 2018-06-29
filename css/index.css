@@ -1,0 +1,18 @@
+a:visited{
+	color:#ED2176
+}
+
+#Logo-position {display:inline;
+	float:left;
+	margin: 10px
+}
+
+.navbar-default .navbar-nav>li>a{
+    color:#FBD6E6;
+    float:left; 
+}
+
+.navbar-default .navbar-brand {
+    color:#F371A7;
+    float:left;
+}
